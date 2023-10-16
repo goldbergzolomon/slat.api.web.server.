@@ -22,6 +22,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\..\slat.core\Slat.Core\Slat.Core.csproj" />
+    <ProjectReference Include="C:\Users\hp\Documents\Slat.project.2\Slat.Core\Slat.Core.csproj" />
   </ItemGroup>
 
 </Project>

@@ -60,6 +60,7 @@ var scope = app.Services.CreateScope();
 scope.ServiceProvider.GetService<ApplicationDbContext>().Database.Migrate();
 
 app.UseStaticFiles();
+
 app.UseHttpsRedirection();
 
 app.UseRouting();
